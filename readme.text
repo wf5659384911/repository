@@ -1,2 +1,9 @@
 这是新创建的分支上的文件
+<<<<<<< HEAD
 这个是在master分支上修改的
+=======
+这是测试git文件冲突的修改
+
+>>>>>>> dev
+
+Creating a new branch is quick and simple.
